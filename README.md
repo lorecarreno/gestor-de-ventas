@@ -1,4 +1,5 @@
-# gestor-de-ventas
+# gestor-de-ventas -Proyecto personal-
+Comienzo: Marzo 2023
 
 
 OBJETIVO: 
